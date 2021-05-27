@@ -1,12 +1,16 @@
-# This a sample git project which integrated React with Tailwind configuration.
-This project is created using the [https://tailwindcss.com/docs/configuration](https://tailwindcss.com/docs/configuration)
+# This is a sample repository which integrates React with Tailwind configuration. 
+
+Created using the [https://tailwindcss.com/docs/configuration](https://tailwindcss.com/docs/configuration)
+
+###  You can simple clone it and run 'npm install' you will have a React + Tailwind integrated repo ready.
 
 Some issues like 'autoprefixer' and 'postcss' are fixed in this repo. If you face any other issues with this repo please let me know [@prakis](https://twitter.com/prakis) Thanks.
 
-## The default React Readme 
+* Please note that to make a production ready app, you need to do purging unless your css file will be huge.
+
+## The following is the default Create-React-App Readme content 
 
 ------------
-
 
 # Getting Started with Create React App
 
