@@ -1,3 +1,13 @@
+# This a sample git project which integrated React with Tailwind configuration.
+This project is created using the [https://tailwindcss.com/docs/configuration](https://tailwindcss.com/docs/configuration)
+
+Some issues like 'autoprefixer' and 'postcss' are fixed in this repo. If you face any other issues with this repo please let me know [@prakis](https://twitter.com/prakis) Thanks.
+
+## The default React Readme 
+
+------------
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
