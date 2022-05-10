@@ -18,7 +18,7 @@ function App() {
           Learn React
         </a>
 
-        <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold m-4 py-2 px-4 rounded-full">
+        <button className="bg-pink-600 hover:bg-pink-700 text-white font-bold m-4 py-2 px-8 rounded-xl">
             Tailwind Button
         </button>
 

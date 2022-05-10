@@ -1,8 +1,8 @@
-# This is a sample repository which integrates React with Tailwind configuration. 
+# This is a sample repository which integrates React with Tailwind 3.0.4 configuration. 
 
 Created using the [https://tailwindcss.com/docs/configuration](https://tailwindcss.com/docs/configuration)
 
-###  You can simple clone it and run 'npm install' you will have a React + Tailwind integrated repo ready.
+###  You can simple clone it and run 'npm install' you will have a React + Tailwind 3.0.4 integrated repo ready.
 
 Some issues like 'autoprefixer' and 'postcss' are fixed in this repo. If you face any other issues with this repo please let me know [@prakis](https://twitter.com/prakis) Thanks.
 
